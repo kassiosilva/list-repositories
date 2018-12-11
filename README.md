@@ -4,7 +4,7 @@
 
 ## Como é feito a pesquisa?
 
-A aplicação usa uma api disponibilizada do Github, ao consultarmos essa api trazemos a informação referente ao diretório pesquisado.
+A aplicação usa uma api disponibilizada do Github gratuitamente, ao consultarmos essa api trazemos a informação referente ao diretório pesquisado.
 
 ## Dependências utilizadas
 
